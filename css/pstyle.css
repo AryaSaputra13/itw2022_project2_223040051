@@ -1,0 +1,20 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav {
+    background-color: #6565f5;
+}
+
+.row {
+    padding-top: 3rem;
+}
+
+#product{
+    padding-top: 5rem;
+    background-color: #5050f7;
+}
+
+footer {
+    background-color: #6565f5;
+}

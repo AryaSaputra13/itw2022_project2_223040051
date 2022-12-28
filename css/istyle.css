@@ -1,0 +1,16 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav {
+    background-color: #6565f5;
+}
+
+.jumbotron {
+    padding-top: 10rem;
+    background-color: #eeee63;
+}
+
+footer {
+    background-color: #6565f5;
+}
